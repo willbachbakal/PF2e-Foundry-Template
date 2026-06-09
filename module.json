@@ -4,9 +4,9 @@
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
-    "minimum": "13",
-    "verified": "14",
-    "maximum": "14"
+    "minimum": "15",
+    "verified": "15",
+    "maximum": "15"
   },
   "flags": {
     "": {
